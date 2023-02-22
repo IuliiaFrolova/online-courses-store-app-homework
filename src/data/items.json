@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1,
+    "name": "Frontend React Course",
+    "price": 499,
+    "imgUrl": "/images/React.png"
+  },
+
+  {
+    "id": 2,
+    "name": "Frontend Next JS Course",
+    "price": 450,
+    "imgUrl": "/images/Next.png"
+  },
+
+  {
+    "id": 3,
+    "name": "Backend Express JS Course",
+    "price": 600,
+    "imgUrl": "/images/Express.png"
+  },
+
+  {
+    "id": 4,
+    "name": "Backend Apollo Client Course",
+    "price": 700,
+    "imgUrl": "/images/Apollo.jpeg"
+  },
+
+  {
+    "id": 5,
+    "name": "GraphQL Course",
+    "price": 450,
+    "imgUrl": "/images/GraphQL.png"
+  },
+
+  {
+    "id": 6,
+    "name": "Rest API Course",
+    "price": 450,
+    "imgUrl": "/images/Rest.png"
+  }
+]
